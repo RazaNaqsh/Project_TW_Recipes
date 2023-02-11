@@ -1,3 +1,13 @@
 # Project_TW_Recipes
 
-This is my First project done using Tailwind Css. This framework is really great and it was real fun to work with it
+First Project Using Tailwind!!
+
+## What i Learnt
+
+* How amazing tailwind is
+* Fast development without stressing on designing much
+* Using utility classes and apply directives
+* Easy Responsiveness using breakpoints and mobile first approach
+
+### live Preview
+https://razanaqsh.github.io/Project_TW_Recipes/
